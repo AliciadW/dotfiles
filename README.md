@@ -8,7 +8,7 @@ He has obviously done a much better job at it, but I wanted to create my own, so
 ## Quick Start
 Run the following command, this will add an alias called dotfiles.
 
-    alias dotfiles="bash <(curl -fsSL https://raw.githubusercontent.com/crydetaan/dotfiles/master/dotfiles)"
+    alias dotfiles="bash <(curl -fsSL https://raw.githubusercontent.com/AliciadW/dotfiles/master/dotfiles)"
 
 
 Now that you have the dotfiles alias added the following will be available. 
